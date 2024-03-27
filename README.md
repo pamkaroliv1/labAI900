@@ -1,2 +1,7 @@
 # labAI900
-uso do azure a criação de um machine learning azure
+uso do azure a criação de um azure machine learning. 
+
+Iniciamos com abertura da conta na azure, onde colocamos nossos dados.
+Ao validar a conta clicamos em criar recurso(create a resource) ou fazemos a busca por Machine learning como o usuario achar melhor, apos selecionado clicamos em creater, iremos configurar nossa machine, escolhendo o nome para a mesma, região, descrição e se queremos que seja publica ou privada. pós informarmos todos as informaçãoes pedida, criaremos nossa Azure machine learning isso pode levar algum tempo, pós a criação seremos levado a outra pagina do laboratorio.
+Apos ficar pronto clicamos em "ir a recursos"( go to resource), e clicamos em ir  para estudio, se a for primeira vez que você entra, tem confirmar alguns dados, apos seu seu projeto for criado, vai em ML automatizado e clica em Novo trabalho de ML automatizado, e fazer configurações, como nome do trabalho, experimento e descrição, depois preenchemos os tipo de tarefas e dadosm, depois escolhemos url da web e colocamos o URL da web que utilizaremos, depois iremos em configuração de tarefas onde colocaremos colunas de de destino no, ao clicar exibir definicções de configuração adicionais, desmarcamos as duas opções marcas, e configuraremos limites, iremos para parte de conputação informaremos as configurações.
+pos isso avançamos, e clicamos em enviar trabalho de treinamento, pode demorar bastante tempo.
